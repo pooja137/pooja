@@ -1,0 +1,9 @@
+#include<iostream.>
+void main()
+ {
+   int n,o;
+   cout<<"Eter a Number:";
+   cout<<"\n Eter another Number:";
+   cout<<"The Sum of the numbers is:";
+   cout<<n+o;
+  }
