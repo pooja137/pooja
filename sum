@@ -2,8 +2,10 @@
 void main()           //Function which does not return any value
  {
    int n,o;           // declaring two variables of type integer
-   cout<<"Enter a Number:";   //Getting two numbers from the user
-   cout<<"\n Eter another Number:";
+   cout<<"Enter a Number:";  //Getting two numbers from the user
+   cin>>n;
+   cout<<"\n Enter another Number:";
+   cin>>o;
    cout<<"The Sum of the numbers is:";
    cout<<n+o;   //Printing the sum of two numbers
    
