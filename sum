@@ -1,9 +1,10 @@
-#include<iostream.>
-void main()
+#include<iostream.h>  //Iostream contains all the input output libraries 
+void main()           //Function which does not return any value
  {
-   int n,o;
-   cout<<"Eter a Number:";
+   int n,o;           // declaring two variables of type integer
+   cout<<"Enter a Number:";   //Getting two numbers from the user
    cout<<"\n Eter another Number:";
    cout<<"The Sum of the numbers is:";
-   cout<<n+o;
+   cout<<n+o;   //Printing the sum of two numbers
+   
   }
